@@ -14,6 +14,13 @@ A three-tab application for:
 
 Uses the PyQt4 package for GUI construction.
 
+#### Target Strength
+![TS](https://github.com/leviner/AcousticTools/blob/master/screenshots/TS.png)
+#### Beam Pattern
+![BW](https://github.com/leviner/AcousticTools/blob/master/screenshots/BW.png)
+#### Sound Speed and Absorption
+![SSA](https://github.com/leviner/AcousticTools/blob/master/screenshots/SSA.png)
+
 ### ui_AcousticToolsUpdated2_bandalt.py
 GUI classes constructed in Qt
 
